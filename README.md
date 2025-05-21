@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### About me
 - I am from Argentina 🇦🇷 (the country of the 🐐) and I'm currently living in Córdoba.
 - I'm in the fifth and last year of the Computer Science 💻 Bachelor's Degree in FAMAF.
-- Outside from college, I am also doing a course in Data Science called "Diplomatura en Ciencia de Datos: Inteligencia Artifical y sus aplicaciones en Economía y Negocios".
-- Apart from studying, I am an intern in UNX Digital, where I mostly train and evaluate computer vision 👁️ models for automating tasks for different clients.
-- I really enjoy programming and getting my hands dirty while learning new awesome and useful things 🤓!
+- I'm now learning about AI Agents.
+- 🤓 In 2024, I did a Diploma Course on Data Science, Artifical Intelligence and their applications in Bussiness.
+- 💻 I have worked in Backend Development with Flask and realtional and non-relational databases, and with Computer Vision Applications.
+- 🤓 I really enjoy programming and getting my hands dirty while learning new awesome and useful things!
+- 📫 How to reach me: basbenja@gmail.com
